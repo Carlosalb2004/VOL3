@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RECICLAJE</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="click_to_login">Click para Loguerse</string>
+    <string name="click_to_register">Click para Registrarte</string>
+    <string name="logout">Cerrar Sesion</string>
+</resources>
